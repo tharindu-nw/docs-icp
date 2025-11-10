@@ -1,0 +1,13 @@
+mkdocs==1.6.1
+Pygments==2.18.0
+mkdocs-material==9.1.2
+pymdown-extensions==10.11.2
+mkdocs-minify-plugin==0.8.0
+mkdocs-markdownextradata-plugin==0.2.6
+mkdocs-redirects==1.2.2
+pathlib==1.0.1
+markdown-include==0.8.1
+markdown==3.7
+mkdocs-exclude==1.0.2
+jinja2==3.1.4
+mkdocs-open-in-new-tab==1.0.3
