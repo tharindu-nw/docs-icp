@@ -7,6 +7,7 @@ This guide will walk you through the steps to configure ICP to use a MySQL datab
 
 ## Prerequisites
 Before you begin, ensure you have the following:
+
 1. A running MySQL server.
 2. Access credentials (username and password) for a MySQL user with permissions to create databases and tables.
 
@@ -28,6 +29,7 @@ Before you begin, ensure you have the following:
    dbName = "icp_database"
    dbUser = "<MYSQL_USERNAME>"
    dbPassword = "<MYSQL_PASSWORD>"
+   dbType = "mysql"
    ```
    Replace `<MYSQL_HOST>`, `<MYSQL_PORT>`, `<MYSQL_USERNAME>`, and `<MYSQL_PASSWORD>` with your MySQL server's host, port, username, and password, respectively.
 3. Save the `deployment.toml` file.
