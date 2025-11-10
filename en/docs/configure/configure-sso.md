@@ -301,9 +301,6 @@ A: Users should use one authentication method. If a user logs in via SSO and sep
 **Q: What happens if the identity provider is unavailable?**  
 A: Users won't be able to login via SSO during the outage. Traditional password authentication (if enabled) will still work.
 
-**Q: How do I disable password login?**  
-A: Stop the default authentication backend service to enforce SSO-only login. Ensure you have admin access via SSO before disabling password authentication.
-
 **Q: Can I use multiple identity providers?**  
 A: Currently, ICP supports one OIDC provider per deployment.
 
