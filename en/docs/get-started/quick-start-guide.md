@@ -4,7 +4,7 @@ WSO2 Integrator: ICP is a fully open-source, interface that enables developers t
 In this quick start guide, you will learn how to download, install, and start using WSO2 Integrator: ICP in a few simple steps.
 
 ## Step 1: Download the Distribution 
-1. Download and unzip [WSO2 Integrator: ICP](https://code.visualstudio.com/download) distribution.
+1. Download and unzip [WSO2 Integrator: ICP](https://github.com/wso2/integration-control-plane/releases/download/v2.0.0-M1/wso2-integrator-icp-2.0.0-SNAPSHOT.zip) distribution.
 
 
 ## Step 2: Start the ICP server
@@ -30,6 +30,5 @@ In this quick start guide, you will learn how to download, install, and start us
 
 ## Step 4: Create an integration in ICP
 1. Create an integration in the ICP platform to establish the connection.
-2. A reference project with a pre-configured integration is available to guide your setup. Create your own project and configure integrations based on your specific requirements.
-
+2. A reference project with a pre-configured integration is available to guide your setup. Create your own project and configure integrations based on your specific requirements.  
 <a href="{{base_path}}/assets/img/get-started/quick-start-guide/sample_integration.png"><img src="{{base_path}}/assets/img/get-started/quick-start-guide/sample_integration.png" alt="Sample Inegration" width="70%"></a>
