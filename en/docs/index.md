@@ -23,7 +23,7 @@
 <div class="homePage">
     <div class="description-section">
         <div>
-            <b>WSO2 Integrator: ICP</b> is a fully open-source, advanced interface that enables developers to monitor and manage deployments effortlessly from a unified control plane, simplifying operations and improving efficiency.
+            <b>WSO2 Integrator: ICP</b> is a fully open-source, interface that enables developers to monitor and manage deployments effortlessly from a unified control plane, simplifying operations and improving efficiency.
         </div>
         <div>
             <a href="https://wso2.com/integrator/icp/" class="banner-link"></a>

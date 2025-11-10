@@ -37,7 +37,7 @@ theme:
       name: material
       custom_dir: theme/material
       logo: images/logo.svg
-      favicon: images/logo.svg
+      favicon: images/icp.svg
       features:
             - content.code.copy
             - content.action.edit
