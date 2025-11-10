@@ -3,8 +3,7 @@
         "title": "Get Started",
         "icon": "🚀",
         "links": [
-            {"name": "Quick Start Guide", "url": "get-started/quick-start-guide/"},
-            {"name": "Install WSO2 Integrator: ICP", "url": "get-started/install-wso2-integrator-bi/"},
+            {"name": "Quick Start Guide", "url": "get-started/quick-start-guide/"}
         ]
     }
     ],
@@ -24,10 +23,10 @@
 <div class="homePage">
     <div class="description-section">
         <div>
-            <b>WSO2 Integrator: ICP</b> is a low-code integration solution built on <a href="https://ballerina.io">Ballerina</a>, enabling fast and efficient integration development with minimal coding. The <a href="https://marketplace.visualstudio.com/items?itemName=WSO2.ballerina-integrator">WSO2 Integrator: BI</a> extension for Visual Studio Code (VS Code) provides a familiar, AI-assisted environment that streamlines tasks and enhances accuracy, accelerating digital transformation efforts.
+            <b>WSO2 Integrator: ICP</b> is a fully open-source, advanced interface that enables developers to monitor and manage deployments effortlessly from a unified control plane, simplifying operations and improving efficiency.
         </div>
         <div>
-            <a href="https://wso2.com/integrator/bi/" class="banner-link"></a>
+            <a href="https://wso2.com/integrator/icp/" class="banner-link"></a>
         </div>
     </div>
     <div class="section02">

@@ -37,7 +37,7 @@ theme:
       name: material
       custom_dir: theme/material
       logo: images/logo.svg
-      favicon: images/icp-logo.svg
+      favicon: images/logo.svg
       features:
             - content.code.copy
             - content.action.edit
@@ -77,13 +77,6 @@ nav:
       - Home: index.md
       - Get started:
               - Quick Start Guide: get-started/quick-start-guide.md
-              - "Install WSO2 Integrator: ICP": get-started/install-wso2-integrator-icp.md
-              - Develop Integrations:
-                      - Develop Automation: get-started/develop-automation.md
-                      - Develop AI Agent: get-started/develop-ai-agent.md
-                      - Develop Integration as API: get-started/develop-integration-as-api.md
-                      - Develop Event Integration: get-started/develop-event-integration.md
-                      - Develop File Integration: get-started/develop-file-integration.md
 
 # Markdown extensions configuration
 markdown_extensions:
